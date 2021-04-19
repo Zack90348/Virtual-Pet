@@ -7,9 +7,9 @@ var gameState,readState;
 var milk;
 
 function preload(){
-  sadDog=loadImage("Images/Dog.png");
-  happyDog=loadImage("Images/Happy.png");
-  milk = loadImage("Images/milk.png");
+  sadDog=loadImage("Dog.png");
+  happyDog=loadImage("Happy.png");
+  milk = loadImage("milk.png");
 }
 
 function setup() {
